@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: "makingspace.tech",
+    title: "creatingSpaces.tech",
     author: "Gord Tanner",
     description: "TODO: Write a description here"
   },
-  pathPrefix: "",
+  pathPrefix: "/",
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
