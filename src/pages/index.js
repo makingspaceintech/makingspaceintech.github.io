@@ -6,8 +6,7 @@ import "../assets/css/main.css";
 import Header from "../components/Header";
 import About from "../components/About";
 import Programs from "../components/Programs";
-import Portfolio from "../components/Portfolio";
-import Testimonials from "../components/Testimonials";
+import Events from "../components/Events";
 import Footer from "../components/Footer";
 
 const IndexPage = () => (
@@ -15,8 +14,7 @@ const IndexPage = () => (
     <Header />
     <About />
     <Programs />
-    <Portfolio />
-    <Testimonials />
+    <Events />
     <Footer />
   </div>
 );
