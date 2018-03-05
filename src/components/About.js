@@ -6,15 +6,14 @@ import profilePic from "../assets/images/profilepic.jpg";
 const About = () => (
   <section id="about">
     <div className="row">
-      <div className="three columns">
-        <img className="profile-pic" src={profilePic} alt="" />
-      </div>
-      <div className="nine columns main-col">
+      <div className="twenty columns main-col">
         <h2>Mission</h2>
         <p>
-        MakingSpaces.tech is a collective guild of people working to make intersectional spaces in our community.
-        <br />
-        Our goal is to foster inclusivity, 
+        MakingSpaces.tech is a collective guild of people working to make safer spaces in our community.
+        </p>
+        <p>
+        Our goal is to foster inclusivity, diversity, accessability and representation in technology.  Bringing the community together and
+        prividing a space for marginalized voices to be amplified.
         </p>
         <div className="row">
           <div className="columns contact-details">

@@ -13,11 +13,12 @@ const Education = () => (
         <div className="twelve columns">
           <h3>Hackathons</h3>
           <p>
-          Our goal is to run accessible Hackathons that allow people to experiement and learn new skills
-          as well as build up their portfolio and network.
-          <br />
-          A Hackathon is an event where teams are made from the people who attend.  The teams then are presented
-          with a problem that they work to solve together.
+          Hackathons provide a venue for self-expression and creativity through technology. People come together, form teams
+          around a problem or idea, and collaboratively create a unique solution.
+          </p>
+          <p>
+          Working in a team is a core skill for technology and our goal is to provide a venue for everyone to find teams
+          and work together on meaningful projects.
           </p>
         </div>
       </div>
@@ -30,6 +31,11 @@ const Education = () => (
           Getting into tech can be a long uphill climb.  We firmly belive that most successful folks involved
           in tech have a community behind them.  Our goal is to be that community for you.
           </p>
+
+          <p>
+          If you are looking to improve your leadership and mentorship skills, makingspace.tech aims to be a resource
+          for you to learn and grow as a leader.
+          </p>
         </div>
       </div>
 
@@ -38,12 +44,9 @@ const Education = () => (
           <h3>Training</h3>
 
           <p>
-            This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel
-            velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-            auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-            Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-            Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
-            ornare odio. Sed non mauris vitae erat
+          Aside from the core knowledge in computer science, the number of skills that are applicants are expected to know
+          is staggering.  From git, pull requests, slack, editors, unix, web publishing.  makingspace.tech will lead and create
+          training courses to help everyone learn these skills.
           </p>
         </div>
       </div>
