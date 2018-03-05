@@ -12,7 +12,9 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>Mission</h2>
         <p>
-        MakingSpaces.tech is a collective guild of people working to create a more intersectional space in our communities.
+        MakingSpaces.tech is a collective guild of people working to make intersectional spaces in our community.
+        <br />
+        Our goal is to foster inclusivity, 
         </p>
         <div className="row">
           <div className="columns contact-details">

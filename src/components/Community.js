@@ -1,6 +1,6 @@
 import React from "react";
 
-const Work = () => (
+const Community = () => (
   <div className="row work">
     <div className="three columns header-col">
       <h1>
@@ -42,4 +42,4 @@ const Work = () => (
   </div>
 );
 
-export default Work;
+export default Community;

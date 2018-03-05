@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "creatingSpaces.tech",
+    title: "makingspace.tech",
     author: "Gord Tanner",
     description: "TODO: Write a description here"
   },

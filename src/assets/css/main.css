@@ -814,7 +814,7 @@ properly.
    a. General Styles
    b. Header Styles
    c. About Section
-   d. Resume Section
+   d. Programs Section
    e. Portfolio Section
    f. Call To Action Section
    g. Testimonials Section
@@ -1170,39 +1170,39 @@ ul#nav li.current a {
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
-#resume {
+#programs {
   background: #fff;
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
 }
 
-#resume a,
-#resume a:visited {
+#programs a,
+#programs a:visited {
   color: #11abb0;
 }
-#resume a:hover,
-#resume a:focus {
+#programs a:hover,
+#programs a:focus {
   color: #313131;
 }
 
-#resume h1 {
+#programs h1 {
   font: 18px/24px "opensans-bold", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-#resume h1 span {
+#programs h1 span {
   border-bottom: 3px solid #11abb0;
   padding-bottom: 6px;
 }
-#resume h3 {
+#programs h3 {
   font: 25px/30px "opensans-bold", sans-serif;
 }
 
-#resume .header-col {
+#programs .header-col {
   padding-top: 9px;
 }
-#resume .main-col {
+#programs .main-col {
   padding-right: 10%;
 }
 
@@ -1212,17 +1212,17 @@ ul#nav li.current a {
   padding-bottom: 24px;
   border-bottom: 1px solid #e8e8e8;
 }
-#resume .info {
+#programs .info {
 
   color: #6e7881;
   margin-bottom: 18px;
   margin-top: 9px;
 }
-#resume .info span {
+#programs .info span {
   margin-right: 5px;
   margin-left: 5px;
 }
-#resume .date {
+#programs .date {
 
   margin-top: 6px;
 }
@@ -2132,8 +2132,8 @@ footer .social li:first-child {
 
  /* Resume Section
  ------------------------------------------------------------------- */
- #resume h1 { font: 16px/24px  }
- #resume .main-col { padding-right: 5%; }
+ #programs h1 { font: 16px/24px  }
+ #programs .main-col { padding-right: 5%; }
 
  /* Testimonials Section
  ------------------------------------------------------------------- */
@@ -2299,14 +2299,14 @@ footer .social li:first-child {
 
  /* Resume Section
  --------------------------------------------------------------------- */
- #resume .header-col {
+ #programs .header-col {
     padding-top: 0;
     margin-bottom: 48px;
     text-align: center;
  }
- #resume h1 { letter-spacing: 3px; }
- #resume .main-col { padding-right: 30px; }
- #resume h3, #resume .info { text-align: center; }
+ #programs h1 { letter-spacing: 3px; }
+ #programs .main-col { padding-right: 30px; }
+ #programs h3, #programs .info { text-align: center; }
 
  .bars { width: 100%; }
 
