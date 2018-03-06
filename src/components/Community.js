@@ -12,10 +12,10 @@ const Community = () => (
       <div className="row item">
         <div className="twelve columns">
           <h3>Meetups</h3>
-          
+
           <p>
-          We will be organizing and providing meetings for people who share an interest
-          in technology.  May that be a specific tool, langage, industry or a shared interest
+          We will be organizing and providing space for people who share an interest
+          in technology, may that be a specific tool, langage, industry, or a shared interest
           in an aspect of our community.
           </p>
         </div>
@@ -26,8 +26,12 @@ const Community = () => (
           <h3>Talks</h3>
 
           <p>
-          We will strive to both bring in high quality speakers on topics in tech as well as provide training
+          We will present high quality speakers on topics in technology, as well as provide training
           and guidance for those who want to get into public speaking.
+          </p>
+
+          <p>
+          If you would like to speak or have an idea for a topic or person for one of our events please get in touch at gtanner@gmail.com
           </p>
         </div>
       </div>

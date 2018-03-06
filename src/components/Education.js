@@ -29,7 +29,7 @@ const Education = () => (
 
           <p>
           Getting into tech can be a long uphill climb.  We firmly belive that most successful folks involved
-          in tech have a community behind them.  Our goal is to be that community for you.
+          in tech have a community behind them.  Our goal is to be that community.
           </p>
 
           <p>
@@ -44,8 +44,8 @@ const Education = () => (
           <h3>Training</h3>
 
           <p>
-          Aside from the core knowledge in computer science, the number of skills that are applicants are expected to know
-          is staggering.  From git, pull requests, slack, editors, unix, web publishing.  makingspace.tech will lead and create
+          Aside from the core knowledge in computer science, the number of skills that applicants are expected to know
+          is staggering.  From git, pull requests, slack, editors, unix, web publishing, makingspace.tech will lead and create
           training courses to help everyone learn these skills.
           </p>
         </div>

@@ -9,11 +9,11 @@ const About = () => (
       <div className="twenty columns main-col">
         <h2>Mission</h2>
         <p>
-        MakingSpaces.tech is a collective guild of people working to make safer spaces in our community.
+        makingspace.tech is a collective guild of people working to make safer spaces in our community.
         </p>
         <p>
-        Our goal is to foster inclusivity, diversity, accessability and representation in technology.  Bringing the community together and
-        prividing a space for marginalized voices to be amplified.
+        Our goal is to foster inclusivity, diversity, accessibility, and representation in technology.  Bringing the community together and
+        providing a space for marginalized voices to be amplified.
         </p>
         <div className="row">
           <div className="columns contact-details">

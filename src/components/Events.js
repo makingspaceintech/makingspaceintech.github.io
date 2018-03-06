@@ -17,7 +17,7 @@ const Events = () => (
         >
           <div className="columns events-item">
             <div className="item-wrap">
-              <a href="#modal-01" title="">
+              <a href="https://ti.to/makingspaceintech/lgbtq-in-technology-meetup-v0-0-1" title="">
                 <img alt="" src={LGBTQ} width="100%" height="100%" />
                 <div className="overlay">
                   <div className="events-item-meta">
@@ -39,7 +39,7 @@ const Events = () => (
                 <div className="overlay">
                   <div className="events-item-meta">
                     <h5>CorridorJS</h5>
-                    <p>Web Development lightning talks.</p>
+                    <p>Web development lightning talks.</p>
                   </div>
                 </div>
                 <div className="link-icon">
