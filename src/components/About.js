@@ -25,6 +25,12 @@ const About = () => (
               <br />
               <span>gtanner@gmail.com</span>
             </p>
+
+            <p className="address">
+              <span>Joy Smith</span>
+              <br />
+              <span>jjoy.smith46@gmail.com</span>
+            </p>
           </div>
         </div>
       </div>
