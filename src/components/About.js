@@ -19,17 +19,19 @@ const About = () => (
           <div className="columns contact-details">
             <h2>Contact Details</h2>
             <p className="address">
-              <span>Gord Tanner</span>
+              <span>Gord Tanner, Co-Founder</span>
+              <br />
+              <span>gord@makingspace.tech</span>
               <br />
               <span>(226)972-1707</span>
-              <br />
-              <span>gtanner@gmail.com</span>
             </p>
 
             <p className="address">
-              <span>Joy Smith</span>
+              <span>Joy Smith, Co-Founder</span>
               <br />
-              <span>jjoy.smith46@gmail.com</span>
+              <span>Co-Founder</span>
+              <br />
+              <span>joy@makingspace.tech</span>
             </p>
           </div>
         </div>
