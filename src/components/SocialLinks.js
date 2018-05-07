@@ -11,27 +11,22 @@ import {
 const SocialLinks = () => (
   <ul className="social">
     <li>
-      <a href="#">
+      <a target="_blank" href="https://www.facebook.com/Makingspace.tech">
         <FaFacebook />
       </a>
     </li>
     <li>
-      <a href="#">
+      <a target="_blank" href="https://twitter.com/MakingSpaceTech">
         <FaTwitter />
       </a>
     </li>
     <li>
-      <a href="#">
-        <FaGooglePlus />
-      </a>
-    </li>
-    <li>
-      <a href="#">
+      <a target="_blank" href="https://www.instagram.com/makingspace.tech/?hl=en">
         <FaInstagram />
       </a>
     </li>
     <li>
-      <a href="#">
+      <a target="_blank" href="https://github.com/makingspaceintech">
         <FaGithub />
       </a>
     </li>
