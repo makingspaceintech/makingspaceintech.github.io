@@ -17,7 +17,7 @@ const Events = () => (
         >
           <div className="columns events-item">
             <div className="item-wrap">
-              <a href="https://ti.to/makingspaceintech/lgbtq-in-technology-meetup-v0-0-3" title="">
+              <a href="https://www.facebook.com/events/171014633580697/" title="">
                 <img alt="" src={LGBTQ} width="100%" height="100%" />
                 <div className="overlay">
                   <div className="events-item-meta">
