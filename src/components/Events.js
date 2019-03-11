@@ -17,7 +17,7 @@ const Events = () => (
         >
           <div className="columns events-item">
             <div className="item-wrap">
-              <a href="https://www.eventbrite.ca/e/lgbtq-in-technology-meetup-v022-tickets-52357182743" title="">
+              <a href="http://lgbtqintechv025.eventbrite.ca" title="">
                 <img alt="" src={LGBTQ} width="100%" height="100%" />
                 <div className="overlay">
                   <div className="events-item-meta">
